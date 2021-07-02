@@ -1,0 +1,34 @@
+body
+{
+	overflow-x: hidden;
+	background-color: rgb(237, 237, 237);
+}
+
+
+#company .companyLogo
+{
+	padding: 50px;
+	font-size: 50px;
+	background-color: red;
+	color: white;
+	margin-bottom: 10px;
+}
+
+
+#navigation .navigationBar li
+{
+	float: left;
+	padding: 30px;
+	left: 90%;
+	list-style-type: none;
+	background-color: red;
+	margin-right: 10px;
+}
+
+
+#navigation .navigationBar li a
+{
+	text-decoration: none;
+	color: white;
+	left: 90px;
+}
